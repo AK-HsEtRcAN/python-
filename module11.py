@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      ASUS
-#
-# Created:     16/07/2023
-# Copyright:   (c) ASUS 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 
  # write a program in python to replace the vowels present in string  with # .
 
